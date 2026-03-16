@@ -1,1 +1,2 @@
-# Prac
+Second year Computer science (OOP) practical 3
+A program to manage the rent of properties , where we have two types of properties (Residential and business) and Resdential have 3 types which is Flat , Town and House , The properties both have owner , contact of the owner and duration of contract (in months)
